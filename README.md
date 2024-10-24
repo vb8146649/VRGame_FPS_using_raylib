@@ -5,7 +5,7 @@ Welcome to **VR Shooter Game**, my first-ever VR game built from scratch using C
 
 ![gameplay1](https://github.com/vb8146649/VRGame_FPS_using_raylib/blob/main/vrfps1(1).gif)
 
-![gameplay2](https://github.com/vb8146649/VRGame_FPS_using_raylib/blob/main/vrfps2 (1).gif
+![gameplay2](https://github.com/vb8146649/VRGame_FPS_using_raylib/blob/main/vrfps2(1).gif
 )
 
 ## Table of Contents
