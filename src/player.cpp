@@ -3,7 +3,7 @@
 Player::Player()
 {
     playerSpeed=0.1;
-    position={0,8,0};
+    position={0,3,0};
 }
 
 void Player::Draw()

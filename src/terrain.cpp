@@ -2,7 +2,7 @@
 
 Terrain::Terrain()
 {
-    // image=LoadImage("/home/asus/Desktop/projects/raylib/examples/models/resources/heightmap.png");
+    image=LoadImage("/home/asus/Desktop/projects/raylib/examples/models/resources/heightmap.png");
     texture = LoadTextureFromImage(image);
     mesh = GenMeshHeightmap(image,(Vector3){32,2,32});
     model = LoadModelFromMesh(mesh);
