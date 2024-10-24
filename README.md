@@ -3,9 +3,9 @@
 Welcome to **VR Shooter Game**, my first-ever VR game built from scratch using C++ and the Raylib library! This project showcases my journey in game development, from initial concept to implementation. 
 ![Screenshot](https://github.com/vb8146649/VRGame_FPS_using_raylib/blob/main/demo.png)
 
-![gameplay1](https://github.com/vb8146649/VRGame_FPS_using_raylib/blob/main/vrfps1.gif)
+![gameplay1](https://github.com/vb8146649/VRGame_FPS_using_raylib/blob/main/vrfps1(1).gif)
 
-![gameplay2](https://github.com/vb8146649/VRGame_FPS_using_raylib/blob/main/vrfps2.gif
+![gameplay2](https://github.com/vb8146649/VRGame_FPS_using_raylib/blob/main/vrfps2 (1).gif
 )
 
 ## Table of Contents
